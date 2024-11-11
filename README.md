@@ -74,14 +74,6 @@ Visualization is key to understanding how well the model is performing and how i
 - **Scikit-learn** 📉 (for Linear Regression and model evaluation)
 - **Jupyter Notebooks** 📓 (for interactive analysis)
 
-## 🛠️ **Getting Started**
-To run this project locally, follow these steps:
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/PranayaKD/Hybrid-Model-Stock-Price-Prediction.git
-cd Hybrid-Model-Stock-Price-Prediction
-
 ## 📈 **Results & Evaluation**
 The hybrid model successfully combines the benefits of LSTM and Linear Regression, achieving high prediction accuracy for Apple's stock closing price. The evaluation metrics (MAE, RMSE) indicate that the hybrid model performs better than traditional time-series methods, providing more reliable predictions.
 
@@ -106,3 +98,7 @@ By combining **LSTM's time-series capabilities** with **Linear Regression’s tr
 
 ## 🤝 **Contributing**
 Feel free to open an issue or submit a pull request if you'd like to contribute. Contributions are welcome! ✨
+Clone the repository
+```bash
+git clone https://github.com/PranayaKD/Hybrid-Model-Stock-Price-Prediction.git
+cd Hybrid-Model-Stock-Price-Prediction
